@@ -7,7 +7,8 @@ This is the code repository for [Hands-On Generative Adversarial Networks with K
 **Your guide to implementing next-generation generative adversarial networks**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Generative Adversarial Networks (GANs) have revolutionized the fields of machine learning and deep learning. This book will be your first step towards understanding GAN architectures and tackling the challenges involved in training them.
+
 
 This book covers the following exciting features: <First 5 What you'll learn points>
 * Learn how GANs work and the advantages and challenges of working with them
@@ -56,7 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author(s)
 **Rafael Valle**
-Rafael Valle is a research scientist at NVIDIA focusing on audio applications. He has years of experience developing high-performance machine learning models for data/audio analysis, synthesis and machine improvisation with formal specifications.
+is a research scientist at NVIDIA focusing on audio applications. He has years of experience developing high-performance machine learning models for data/audio analysis, synthesis and machine improvisation with formal specifications.
 
 Dr. Valle was the first to generate speech samples from scratch with GANs and to show that simple yet efficient techniques can be used to identify GAN samples. He holds an Interdisciplinary Ph.D. in Machine Listening and Improvisation from UC Berkeley, a Master’s degree in Computer Music from the MH-Stuttgart in Germany and a Bachelor’s degree in Orchestral Conducting from UFRJ in Brazil.
 
