@@ -17,7 +17,7 @@ This book covers the following exciting features: <First 5 What you'll learn poi
 * Understand how to implement progressive growing of GANs
 * Use GANs for image synthesis and speech enhancement
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-53820-3) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789538203) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
