@@ -4,15 +4,15 @@
 
 This is the code repository for [Hands-On Generative Adversarial Networks with Keras	](https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-generative-adversarial-networks-keras?utm_source=github&utm_medium=repository&utm_campaign=9781789538205), published by Packt.
 
-**Subtitle from EPIC**
+**Your guide to implementing next-generation generative adversarial networks**
 
 ## What is this book about?
 First Paragraph from the Long Description
 
 This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
+* Learn how GANs work and the advantages and challenges of working with them
+* Control the output of GANs with the help of conditional GANs, using embedding and space manipulation
+* Apply GANs to computer vision, NLP, and audio processing
 * Understand how to add, remove, and search for packages
 * Use NFS and Samba to share directories with other users
 
