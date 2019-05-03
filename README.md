@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789538205_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-*Generative Adversarial Networks Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/generative-adversarial-networks-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789139907) [[Amazon]](https://www.amazon.com/dp/1789139902)
+* Generative Adversarial Networks Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/generative-adversarial-networks-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789139907) [[Amazon]](https://www.amazon.com/dp/1789139902)
 
 * Generative Adversarial Networks Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/generative-adversarial-networks-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789136678) [[Amazon]](https://www.amazon.com/dp/1789136679)
 
