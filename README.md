@@ -1,6 +1,6 @@
-# Book Name
+# Hands-On Generative Adversarial Networks with Keras	
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-generative-adversarial-networks-keras?utm_source=github&utm_medium=repository&utm_campaign=9781789538205"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11685_mockupcover.png" alt="Hands-On Generative Adversarial Networks with Keras	" height="256px" align="right"></a>
 
 This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
 
