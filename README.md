@@ -10,7 +10,7 @@ This is the code repository for [Hands-On Generative Adversarial Networks with K
 Generative Adversarial Networks (GANs) have revolutionized the fields of machine learning and deep learning. This book will be your first step towards understanding GAN architectures and tackling the challenges involved in training them.
 
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Learn how GANs work and the advantages and challenges of working with them
 * Control the output of GANs with the help of conditional GANs, using embedding and space manipulation
 * Apply GANs to computer vision, NLP, and audio processing
