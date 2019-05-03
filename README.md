@@ -2,7 +2,7 @@
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-generative-adversarial-networks-keras?utm_source=github&utm_medium=repository&utm_campaign=9781789538205"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11685_mockupcover.png" alt="Hands-On Generative Adversarial Networks with Keras	" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Hands-On Generative Adversarial Networks with Keras	](https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-generative-adversarial-networks-keras?utm_source=github&utm_medium=repository&utm_campaign=9781789538205), published by Packt.
 
 **Subtitle from EPIC**
 
@@ -31,7 +31,7 @@ if (test expression)
 }
 ```
 
-**Following is what you need for this book:**
+**Your guide to implementing next-generation generative adversarial networks**
 Copy and paste the Audience section from the EPIC.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
