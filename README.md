@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Generative Adversarial Networks Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/generative-adversarial-networks-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789136678) [[Amazon]](https://www.amazon.com/dp/1789136679)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Rafael Valle**
 is a research scientist at NVIDIA focusing on audio applications. He has years of experience developing high-performance machine learning models for data/audio analysis, synthesis and machine improvisation with formal specifications.
 
